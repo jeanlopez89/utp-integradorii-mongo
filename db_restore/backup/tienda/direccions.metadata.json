@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"tienda.direccions"}],"uuid":"7e0efb5c466f4c7ebec175f8f044873c"}

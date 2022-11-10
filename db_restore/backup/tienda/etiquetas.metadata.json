@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_","ns":"tienda.etiquetas"},{"v":{"$numberInt":"2"},"unique":true,"key":{"titulo":{"$numberInt":"1"}},"name":"titulo_1","ns":"tienda.etiquetas","background":true}],"uuid":"94135a762b2647a4a4c517039085610a"}
